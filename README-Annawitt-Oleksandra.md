@@ -48,6 +48,8 @@ Value 2:2
 ---
 All the comments and suggestions are welcome.
 You can contact me under: oleksandra.annawitt@edu.fh-joanneum.at
+[My GitHub Profile](https://github.com/annawittalex)
+[FH Joanneum](https://www.fh-joanneum.at)
 
 ## Links to the exercises
 ---
