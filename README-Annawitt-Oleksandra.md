@@ -51,8 +51,8 @@ You can contact me under: oleksandra.annawitt@edu.fh-joanneum.at
 
 ## Links to the exercises
 ---
-* [Exercise1](/Exercise1/exercise1.md)
-* Exercise2
+* [Exercise1](/exercise1.md)
+* [Exercise2](/exercise2.md) - list of useful Git commands
 * Exercise3
 * Exercise4
 * Exercise5
