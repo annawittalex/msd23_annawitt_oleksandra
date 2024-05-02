@@ -55,7 +55,7 @@ You can contact me under: oleksandra.annawitt@edu.fh-joanneum.at
 ---
 * [Exercise1](/exercise1.md)
 * [Exercise2](/exercise2.md) - list of useful Git commands
-* Exercise3
+* [Exercise3](/exercise3.md) - MAVEN (JAVA) Projectstructure and Git
 * Exercise4
 * Exercise5
 * Exercise6

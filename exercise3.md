@@ -16,3 +16,6 @@ Here is how the repository looks like now:
 Then the dependency and build plugins were added into pom.xml. After entering the correct versions I've got the successful buid:
 
 ![screenshot terminal mvn compile](/resources/images/ex3_2.png)
+
+mvn exec:java presents us the result of running of main class, but in the system terminal.
+![screenshot terminal mvn exec:java](/resources/images/ex3_3.png)
