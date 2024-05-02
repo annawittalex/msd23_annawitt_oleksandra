@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Distract: "+calculator.minus(28, 2));
         System.out.println("Divide: "+calculator.divide(28, 2));
         System.out.println("Multiply: "+calculator.multiply(28, 2));
+        System.out.println("Oleksandra Annawitt");
 
     }
 }
