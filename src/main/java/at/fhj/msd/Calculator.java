@@ -8,11 +8,7 @@ public class Calculator {
     public double minus (double number1, double number2){
         return number1-number2;
     }
-    public double divide (double number1, double number2){
-        try {return number1/number2;
-        } catch (ArithmeticException e){
-            System.out.println("Division by zero is impossible!");
-        }
+    public double divide (double number1, double number2) throws ArithmeticException{
         return number1/number2;
     }
     public double multiply (double number1, double number2){
