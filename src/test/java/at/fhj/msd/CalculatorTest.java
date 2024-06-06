@@ -49,11 +49,11 @@ public class CalculatorTest {
     void testDivide2(){
         assertEquals(-5, calc.divide(-10,2)); }
 
- /*   @DisplayName("Testing divide3() method") @Test
+    @DisplayName("Testing divide3() method") @Test
     void testDivide3() {
-        assertThrows(ArithmeticException.class, calc.divide(10,0));
+        assertThrows(ArithmeticException.class, () -> calc.divide(10, 0));
     }
-*/
+
 
     //---------------Testing multiply() method----------//
     @DisplayName("Testing multiply1() method") @Test
