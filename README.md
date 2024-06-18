@@ -57,7 +57,7 @@ You can contact me under: oleksandra.annawitt@edu.fh-joanneum.at
 * [Exercise2](/exercise2.md) - list of useful Git commands
 * [Exercise3](/exercise3.md) - MAVEN (JAVA) Projectstructure and Git
 * [Exercise4](/exercise4.md) - JUnit Tests
-* Exercise5
+* [Exercise5](/exercise5.md) - Git Branching - nesessary configurations are in log4j2.xml.template
 * Exercise6
 
 
